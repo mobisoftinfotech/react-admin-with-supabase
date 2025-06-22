@@ -1,4 +1,4 @@
-# test-admin
+# react-admin-with-supabase
 
 ## Installation
 
